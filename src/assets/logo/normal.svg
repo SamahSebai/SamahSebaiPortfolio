@@ -1,0 +1,15 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 84 96" width="84" height="96">
+	<title>normal-svg</title>
+	<style>
+		tspan { white-space:pre } 
+		.s0 { fill: none;stroke: #65feda;stroke-linecap: round;stroke-linejoin: round;stroke-width: 5;stroke-dasharray: 270 } 
+		.t1 { font-size: 50px;fill: #65feda;font-family: "e2mxl Njc Lv31::: Roboto" } 
+	</style>
+	<g id="Layer">
+		<path id="Layer" fill-rule="evenodd" class="s0" d="m42 3l-39 22v45l39 23 39-22v-45z"/>
+		<text id="S" style="transform: matrix(1,0,0,1,28.336,66.157)" >
+			<tspan x="0" y="0" class="t1">S
+</tspan>
+		</text>
+	</g>
+</svg>

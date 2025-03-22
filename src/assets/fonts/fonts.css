@@ -1,0 +1,75 @@
+/* ********************************** CALIBRE FRONT ************************************/
+
+@font-face {
+  font-family: calibre;
+  src: url(calibre/CalibreThin.otf);
+  font-weight: 200;
+}
+
+@font-face {
+  font-family: calibre;
+  src: url(calibre/CalibreLight.otf);
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: calibre;
+  src: url(calibre/CalibreMedium.otf);
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: calibre;
+  src: url(calibre/CalibreSemibold.otf);
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: calibre;
+  src: url(calibre/CalibreBold.otf);
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: calibre;
+  src: url(calibre/CalibreBlack.otf);
+  font-weight: 700;
+}
+
+/* ********************************** SFMono ************************************/
+
+@font-face {
+  font-family: SFMono;
+  src: url(SFMono/SFMonoLight.otf);
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: SFMono;
+  src: url(SFMono/SFMonoMedium.otf);
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: SFMono;
+  src: url(SFMono/SFMonoRegular.otf);
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: SFMono;
+  src: url(SFMono/SFMonoSemibold.otf);
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: SFMono;
+  src: url(SFMono/SFMonoBold.otf);
+  font-weight: 800;
+}
+
+@font-face {
+  font-family: SFMono;
+  src: url(SFMono/SFMonoHeavy.otf);
+  font-weight: 900;
+}
